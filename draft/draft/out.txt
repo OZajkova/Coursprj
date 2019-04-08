@@ -1,0 +1,22 @@
+Digraph {
+node [shape = box];a;b;c;d;e;f;g;
+node [shape = circle];
+0->a
+1->b
+2->c
+3->d
+4->e
+5->c
+6->e
+7->f
+7->g
+a->1
+b->2
+b->3
+c->4
+d->5
+d->6
+e->7
+f->1
+g->8
+}

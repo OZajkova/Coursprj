@@ -1,0 +1,7 @@
+﻿  draft.cpp
+c:\users\зайковаольгасергеевн\source\repos\draft\draft\draft.cpp(3): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  c:\users\зайковаольгасергеевн\source\repos\draft\draft\draft.cpp: note: см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+c:\users\зайковаольгасергеевн\source\repos\draft\draft\draft.cpp(3): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\зайковаольгасергеевн\source\repos\draft\draft\draft.cpp(3): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\зайковаольгасергеевн\source\repos\draft\draft\draft.cpp(4): note: использование предварительно скомпилированного заголовка
+  draft.vcxproj -> C:\Users\ЗайковаОльгаСергеевн\source\repos\draft\Debug\draft.exe
